@@ -1,10 +1,9 @@
 <img src="https://github.com/JoseAzmitia/JoseAzmitia/blob/49176f8eb74f14e0e4d79984a8f6349274a5201e/Header.gif" width="100%" >
  <!--- <p align="center"><a href="">Portfolio↗️</a></p> -->
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/JoseAzmitia?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JoseAzmitia?style=social)<img src="https://komarev.com/ghpvc/?username=JoseAzmitia" alt="" />
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
+**About Me** <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> 
 
 
  🔭 I’m currently working on My portfolio website
