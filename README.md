@@ -8,8 +8,6 @@
 
  🔭 I’m currently working on My portfolio website
 
- 🌱 I’m currently learning **Angular**
-
  💬 Ask me about **React.js, Java, React Native**
 
  📫 Reach out to me: **azmitiajc@gmail.com**
